@@ -13,18 +13,17 @@ Este proyecto es un sistema completo de agenda de contactos desarrollado en PHP 
 ## Estructura del proyecto
 
 contactos-app/
-│
-├── includes/
-│ ├── database.php # Conexión PDO a la base de datos
-│ └── funciones.php # Funciones CRUD para usuarios y contactos
-│
-├── index.php # Listado de contactos y formulario de nuevo contacto
-├── login.php # Inicio de sesión
-├── logout.php # Cerrar sesión
-├── regisstrarse.php # Registro de usuarios
-├── editar.php # Edición de datos del usuario
-├── contactos.sql # Script SQL para crear la base de datos y tablas
-
+contactos-app/<br>
+├── includes/<br>
+│&nbsp;&nbsp;&nbsp;├── database.php &nbsp;&nbsp;# Conexión PDO a la base de datos<br>
+│&nbsp;&nbsp;&nbsp;└── funciones.php &nbsp;&nbsp;# Funciones CRUD para usuarios y contactos<br>
+├── index.php &nbsp;&nbsp;# Listado de contactos y formulario de nuevo contacto<br>
+├── login.php &nbsp;&nbsp;# Inicio de sesión<br>
+├── logout.php &nbsp;&nbsp;# Cerrar sesión<br>
+├── regisstrarse.php &nbsp;&nbsp;# Registro de usuarios<br>
+├── editar.php &nbsp;&nbsp;# Edición de datos del usuario<br>
+├── contactos.sql &nbsp;&nbsp;# Script SQL para crear la base de datos y tablas<br>
+└── README.md &nbsp;&nbsp;# Este archivo<br>
 
 ## Base de datos
 
